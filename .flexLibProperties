@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="false" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="com.evola.driving.model.DrivingCategory"/>
+    <classEntry path="com.evola.driving.model.ModelBase"/>
+    <classEntry path="com.evola.driving.model.Question"/>
+    <classEntry path="com.evola.driving.model.QuestionAnswer"/>
+    <classEntry path="com.evola.driving.model.QuestionCategory"/>
+    <classEntry path="com.evola.driving.model.QuestionImage"/>
+    <classEntry path="com.evola.driving.model.User"/>
+    <classEntry path="com.evola.driving.util.CommonsSettings"/>
+    <classEntry path="com.evola.driving.util.DateUtils"/>
+    <classEntry path="com.evola.driving.util.EvolaDrivingModel"/>
+    <classEntry path="com.evola.driving.util.FormattingUtils"/>
+    <classEntry path="com.evola.driving.util.GroupColors"/>
+    <classEntry path="com.evola.driving.util.ModelParser"/>
+    <classEntry path="com.evola.driving.util.QuestionsParser"/>
+    <classEntry path="com.evola.driving.util.ThemeColors"/>
+    <classEntry path="com.evola.driving.util.ThemeSounds"/>
+    <classEntry path="com.evola.driving.util.ThemeImages"/>
+    <classEntry path="com.evola.driving.util.DrivingUtils"/>
+    <classEntry path="com.evola.driving.util.SessionUtils"/>
+    <classEntry path="com.evola.driving.util.SessionGroupDay"/>
+    <classEntry path="com.evola.driving.util.Session"/>
+    <classEntry path="com.evola.driving.util.SessionGroupMonth"/>
+    <classEntry path="com.evola.driving.Session"/>
+    <classEntry path="com.evola.driving.util.URLUtils"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
